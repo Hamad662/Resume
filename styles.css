@@ -1,0 +1,31 @@
+body {
+    background-color: #eeeeee;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 6%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #393e46;
+}
+
+h3 {
+    color: #393e46;
+}
+
+table {
+    color: #393e46;
+}
+ul {
+    color: #393e46;
+}
